@@ -1,7 +1,7 @@
 import React from "react";
 import logoSara from "@/assets/logoSara.jpg";
 import logoJmario from "@/assets/logoJmario.jpg";
-import logoJmarioCouture from "@/assets/logoJmarioCouture.jpg";
+
 import logoMagicripped from "@/assets/logoMagicripped.jpg";
 import logoVoufit from "@/assets/logoVoufit.jpg";
 import logoEliana from "@/assets/logoEliana1.jpg";
