@@ -26,7 +26,7 @@ const MobileBanner = () => {
     },
     {
       id: 2,
-      link: "#",
+      link: "https://eliana-jmario.vercel.app/",
       src: logoJmario,
       brand:
         "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-white hover:shadow-white   duration-300 cursor-pointer hover:shadow-xl shadow-md",
