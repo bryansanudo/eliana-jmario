@@ -3,7 +3,6 @@ import PageSection from "@/components/PageSection";
 import { Link, useLocation } from "react-router-dom";
 import { AiFillFire, AiFillExperiment } from "react-icons/ai";
 
-import logoJmario from "@/assets/logoJmarioCouture.jpg";
 import product1 from "@/assets/categorys/blackLine/product1.jpg";
 import product2 from "@/assets/categorys/blackLine/product2.jpg";
 import product3 from "@/assets/categorys/blackLine/product3.jpg";

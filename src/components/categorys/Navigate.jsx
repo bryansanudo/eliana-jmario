@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { GiSkirt, GiDress, GiLargeDress, GiAmpleDress } from "react-icons/gi";
-import logoJmario from "@/assets/logoJmarioCouture.jpg";
+import logoJmario from "@/assets/logoJmario.jpg";
 
 const Navigate = () => {
   return (
